@@ -111,7 +111,7 @@ async function html() {
         headCSS,
         SVGOMG_VERSION: changelog[0].version,
         SVGO_VERSION,
-        liveBaseUrl: 'https://jakearchibald.github.io/svgomg/',
+        liveBaseUrl: 'https://thorium.rocks/svgomg/',
         title: `SVGOMG - SVGO's Missing GUI`,
         description: 'Easy & visual compression of SVG images.',
         iconPath: 'imgs/icon.png',

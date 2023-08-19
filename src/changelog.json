@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.16.1",
+    "changes": [
+      "Update to SVGO v3.0.2",
+      "Update NPM deps",
+      "Alex313031 fork",
+    ]
+  },
+  {
     "version": "1.16.0",
     "changes": [
       "Update to SVGO v3.0.0",
